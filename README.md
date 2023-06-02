@@ -38,20 +38,18 @@ I speak fluent English, and Spanish and I can hold a conversation without proble
 
 
 <!--Intro start-->
-- 🔭 I’m currently working with
-- <ul>
-  <li>**Javascript**</li>
-  <li>**React.js**</li>
-  <li>**Nodejs**</li>
-  <li>**postrgreSQL**</li>
-  <li>**Express**</li>
+- 🔭 **I’m currently working with**
+  <ul>
+  <li>Javascript</li>
+  <li>React.js</li>
+  <li>Nodejs</li>
+  <li>postrgreSQL</li>
+  <li>Express</li>
   </ul>
 
 - 🌱 I’m currently learning **Typescript, React Native**
 
 - ☁️ I've keen interest in celphone apps. So,I'm learning **React Native**
-
-- 💬 Ask me about **Javascript, React.js, Nodejs, postrgreSQL, Express**
 
 - 📫 Feel free to reach me out **sofiaperone62@gmail.com**
 
