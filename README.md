@@ -30,7 +30,7 @@
   </ul>
 </div>
 <p align="center">
-  Hi :) I'm Sofia and I'm a Fullstack developer.
+  <b> Hi :) I'm Sofia and I'm a Fullstack developer. </b>
 Three years ago I did not know what to do with my life, today I think I have chosen the career that I want to develop during it, therefore the motivation is total.
 My goal is clear: grow in a collaborative environment, keep educating and challenging myself . I would also like to improve my presentation skills and people skills.
 I speak fluent English, and Spanish and I can hold a conversation without problem.
@@ -38,7 +38,7 @@ I speak fluent English, and Spanish and I can hold a conversation without proble
 
 
 <!--Intro start-->
-- 🔭 **Technologies I'd work with*
+- 🔭 **Technologies I work with**
   <ul>
   <li>Javascript</li>
   <li>React.js</li>
@@ -52,7 +52,7 @@ I speak fluent English, and Spanish and I can hold a conversation without proble
   <li>Styled Components</li>
   </ul>
  
- - 🔭 **Tools**
+ - <ToolsIcon size={24} /> **Tools**
   <ul>
   <li>Git</li>
   <li>Github</li>
