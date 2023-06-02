@@ -52,7 +52,7 @@ I speak fluent English, and Spanish and I can hold a conversation without proble
   <li>Styled Components</li>
   </ul>
  
- - <ToolsIcon size={24} /> **Tools**
+ - ⚙️ **Tools**
   <ul>
   <li>Git</li>
   <li>Github</li>
@@ -62,11 +62,11 @@ I speak fluent English, and Spanish and I can hold a conversation without proble
   <li>Lots of style and component's librarys</li>
   </ul>
 
-- 🌱 I’m currently learning **Typescript, React Native**
+- 🧠  I’m currently learning **Typescript, React Native**
 
 - ☁️ I've keen interest in celphone apps. So,I'm learning **React Native**
 
-- 📫 Feel free to reach me out **sofiaperone62@gmail.com**
+- 📫 Feel free to reach me out **sofiaperone62@gmail.com, https://www.linkedin.com/in/sofia-perone/**
 
 <!--Intro end-->
 
