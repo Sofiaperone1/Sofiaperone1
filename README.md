@@ -38,13 +38,28 @@ I speak fluent English, and Spanish and I can hold a conversation without proble
 
 
 <!--Intro start-->
-- 🔭 **I’m currently working with**
+- 🔭 **Technologies I'd work with*
   <ul>
   <li>Javascript</li>
   <li>React.js</li>
   <li>Nodejs</li>
-  <li>postrgreSQL</li>
+  <li>HTML / CSS / SASS</li>
+  <li>Redux</li>
   <li>Express</li>
+  <li>SQL & noSQL</li>
+  <li>MongoDB, mySQL, Firebase, PostgreSQL</li>
+  <li>Scrumb</li>
+  <li>Styled Components</li>
+  </ul>
+ 
+ - 🔭 **Tools**
+  <ul>
+  <li>Git</li>
+  <li>Github</li>
+  <li>Figma</li>
+  <li>Trello</li>
+  <li>Discord</li>
+  <li>Lots of style and component's librarys</li>
   </ul>
 
 - 🌱 I’m currently learning **Typescript, React Native**
@@ -57,19 +72,6 @@ I speak fluent English, and Spanish and I can hold a conversation without proble
 
 
 
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,express,figma,firebase,github,html,js,linux,materialui,mongodb,mysql,nodejs,postman,react,redux,vscode&perline=14" />
-  </a>
-</p>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
