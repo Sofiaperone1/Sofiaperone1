@@ -66,7 +66,7 @@ I speak fluent English, and Spanish and I can hold a conversation without proble
 
 - ☁️ I've keen interest in celphone apps. So,I'm learning **React Native**
 
-- 📫 Feel free to reach me out **sofiaperone62@gmail.com, https://www.linkedin.com/in/sofia-perone/**
+- 📫 Feel free to reach me out **sofiaperone62@gmail.com**
 
 <!--Intro end-->
 
@@ -83,7 +83,7 @@ I speak fluent English, and Spanish and I can hold a conversation without proble
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/sofia-perone/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+  <a target="blank">https://www.linkedin.com/in/sofia-perone/</a>
   <a target="blank">Sofiaperone62@gmail.com</a>
 
 
