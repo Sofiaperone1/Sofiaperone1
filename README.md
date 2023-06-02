@@ -83,8 +83,8 @@ I speak fluent English, and Spanish and I can hold a conversation without proble
 
 <!--icons and links-->
 <p align="center">
-  <a target="blank">https://www.linkedin.com/in/sofia-perone/</a>
-  <a target="blank">Sofiaperone62@gmail.com</a>
+  <a href=""target="blank">https://www.linkedin.com/in/sofia-perone/</a>
+  <a href="https://github.com/Sofiaperone1" target="blank" > https://github.com/Sofiaperone1</a>
 
 
   
