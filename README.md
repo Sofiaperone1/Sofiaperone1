@@ -49,6 +49,8 @@ I speak fluent English, and Spanish and I can hold a conversation without proble
   <li>SQL & noSQL</li>
   <li>MongoDB, mySQL, Firebase, PostgreSQL</li>
   <li>Scrumb</li>
+   <li>Mocha</li>
+   <li>Jest</li>
   <li>Styled Components</li>
   </ul>
  
